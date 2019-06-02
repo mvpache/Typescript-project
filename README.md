@@ -1,6 +1,6 @@
 # Typescript-project
 Project for learning typescript 
-Do the movie blog site with a Node/Typescript backend
+Do the movie blog site with a Node/Typescript backend Hosted on AWS/Route 53
 
 For front end --- React/Redux or Vue?
 
